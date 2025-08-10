@@ -1,3 +1,4 @@
+#requirements.txt
 name: smoothies_app
 channels:
   - defaults
